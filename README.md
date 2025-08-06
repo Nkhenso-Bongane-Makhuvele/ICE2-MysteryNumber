@@ -33,3 +33,5 @@ Screenshots:
 
 
 <img width="763" height="795" alt="Screenshot 2025-08-06 153957" src="https://github.com/user-attachments/assets/644cd3ff-85b2-4e71-b32a-1a00eb303f23" />
+
+<img width="804" height="734" alt="image" src="https://github.com/user-attachments/assets/592d50e5-7980-4518-be73-c6805638166d" />
