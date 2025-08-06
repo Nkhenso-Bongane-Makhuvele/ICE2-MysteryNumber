@@ -25,3 +25,11 @@ The app also includes a guess counter that tracks how many attempts the user has
 Each feature is designed to be simple, responsive, and user-friendly, making the game engaging while also demonstrating key concepts of interactive app development.
 
 Screenshots:
+
+<img width="732" height="671" alt="Screenshot 2025-08-06 154101" src="https://github.com/user-attachments/assets/86117d65-aa1f-41af-878f-905b792e997e" />
+
+
+<img width="795" height="760" alt="Screenshot 2025-08-06 154014" src="https://github.com/user-attachments/assets/689ed76a-c3f5-44aa-ae3c-a148a7b8ee9b" />
+
+
+<img width="763" height="795" alt="Screenshot 2025-08-06 153957" src="https://github.com/user-attachments/assets/644cd3ff-85b2-4e71-b32a-1a00eb303f23" />
